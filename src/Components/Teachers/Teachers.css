@@ -1,0 +1,25 @@
+.single-teacher {
+    margin: auto;
+
+}
+
+.teacher-img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin: auto;
+}
+
+.card-body {
+    background-image: linear-gradient(to right, rgba(193, 196, 37, 0), rgb(136, 117, 158));
+}
+
+.addCart {
+    width: 150px;
+    margin-left: 20px;
+    padding: 3px;
+    border-radius: 5px;
+    border: 1px solid grey;
+    color: white;
+    background-color: rgb(118, 194, 218);
+}

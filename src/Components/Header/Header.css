@@ -1,0 +1,15 @@
+.header {
+    
+    text-align: center;
+    color: rgb(196, 222, 230);
+
+    margin: auto;
+    padding: 1px;
+    background-color: rgb(59, 45, 39);
+
+
+}
+
+.budget {
+    padding-bottom: 10px;
+}

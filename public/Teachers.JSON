@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "name": "stephen hawking",
+        "age": 80,
+        "subject": "Physics",
+        "university": "IUB",
+        "sallary": 10000,
+        "img": "https://i.guim.co.uk/img/media/b36ce1d3e4122c3d9ea61aae97435427a2be6db7/0_314_3356_2014/master/3356.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=60ab4090e8670420d755b58c39ab63b4"
+    },
+    {
+        "id": 2,
+        "name": "neil degrasse tyson",
+        "age": 55,
+        "subject": "Physics",
+        "university": "aiub",
+        "sallary": 12000,
+        "img": "https://cdn.britannica.com/06/202006-050-64C85CC7/Neil-deGrasse-Tyson-2018.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Jennifer Doudna",
+        "age": 65,
+        "subject": "Advanced Mathematics",
+        "university": "nsu",
+        "sallary": 11000,
+        "img": "https://resize.indiatvnews.com/en/resize/newbucket/715_-/2020/03/doudna-grey750-1583639082.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Lucianne Walkowicz",
+        "age": 36,
+        "subject": "astrophysics",
+        "university": "AIUB",
+        "sallary": 13000,
+        "img": "https://resize.indiatvnews.com/en/resize/newbucket/715_-/2020/03/af6bbdfdd36307c7cb26702fd0da799d8bd7f505-800x600-1583639120.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Aditi Pant ",
+        "age": 73,
+        "subject": "oceanographer",
+        "university": "IUB",
+        "sallary": 14000,
+        "img": "https://resize.indiatvnews.com/en/resize/newbucket/715_-/2020/03/aditi-pant-the-first-lady-from-india-to-go-to-antarctica-1583638930.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Mangala Narlikar ",
+        "age": 34,
+        "subject": "Physics",
+        "university": "NSU",
+        "sallary": 12000,
+        "img": "https://resize.indiatvnews.com/en/resize/newbucket/715_-/2020/03/fgfg-1583639078.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Carl Sagan",
+        "age": 82,
+        "subject": "astronomey",
+        "university": "AIUB",
+        "sallary": 21000,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Carl_Sagan_Planetary_Society_cropped.png"
+    },
+    {
+        "id": 8,
+        "name": "Albert Einstein",
+        "age": 31,
+        "subject": "Physics",
+        "university": "BRAC",
+        "sallary": 17000,
+        "img": "https://i.guim.co.uk/img/media/417a21848ea441a0acae900ba0d9ade9b322c9e5/0_579_4505_2700/master/4505.jpg?width=445&quality=45&auto=format&fit=max&dpr=2&s=4f58a0865f8d339a0ea08dc74826f7ac"
+    },
+    {
+        "id": 9,
+        "name": "Sasha Sagan",
+        "age": 36,
+        "subject": "english",
+        "university": "AIUB",
+        "sallary": 18000,
+        "img": "https://pbs.twimg.com/profile_images/1109129376233332738/-4bLzlCl.png"
+    },
+    {
+        "id": 10,
+        "name": "Michio Kaku",
+        "age": 39,
+        "subject": "Math",
+        "university": "NSU",
+        "sallary": 15500,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Michio_Kaku_Presentation.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Brian Greene",
+        "age": 37,
+        "subject": "Biology",
+        "university": "AIUB",
+        "sallary": 16500,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/65/Brian_Greene%2C_February_28%2C_2014_%28cropped%29.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Mario Di Francesco",
+        "age": 51,
+        "subject": "Computer",
+        "university": "BRAC",
+        "sallary": 12500,
+        "img": "https://people.aalto.fi/files/1160228_x_512_3to4.jpg"
+    }
+]
